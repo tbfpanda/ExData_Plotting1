@@ -1,5 +1,26 @@
 ## Introduction
 
+
+The libraries used are tidyverse, dplyr, lubridate
+projectd is the data given in the text file made into a tbl_df format
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
